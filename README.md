@@ -9,9 +9,11 @@ Detailed Test Plan
 https://docs.google.com/document/d/1bkj-foe-630jmvnD9KDAFJmRE76kC3OhK76IHzdXjo0
 
 Setup
+
 npm install 
 npx playwright install
 
-Run the test
+Compile code and Run the test
+
 npx tsc
 npx playwright test tests/flight-reservation.spec.ts
