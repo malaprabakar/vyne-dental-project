@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "target": "ESNext",
+      "module": "CommonJS",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true
+    },
+    "include": ["tests", "archive/flightsearch.spec.ts", "archive/flightsearch.spec.js", "cflight-search.spearchive/flightsearch.spec copy1.tscopyarchive/flightsearch.spec_wcopy.tswcopy.ts", "tests/flightsearch.spec_nicecopy.tsightsearch.spec_nicecopy.js"]
+  }
+  
