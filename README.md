@@ -1,8 +1,12 @@
 # vyne-dental-project
 AA flight reservation project
 
+This Playwright test suite automates the process of booking a flight on the American Airlines website. 
+
+
 **A brief explanation of your approach and any assumptions made.**
 https://docs.google.com/document/d/1xPwKjLqWbe91qChczU69_D8g_5JB9oggI8XFTSD0jmA
+
 
 **Detailed Test Plan**
 
